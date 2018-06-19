@@ -1,0 +1,1 @@
+cmd_/home/ning/Desktop/second2/part.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/ning/Desktop/second2/part.ko /home/ning/Desktop/second2/part.o /home/ning/Desktop/second2/part.mod.o ;  true
